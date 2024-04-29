@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🤔  Exploring new technologies and solutions related to web development.
+- 🤔 Exploring new technologies and solutions related to web development.
 - 🎓 Studying Systems Analysis and Development (EAD) at Estácio de Sá, complemented with courses from the Alura technology school.
-- 💼 
+- 💼 Currently unemployed and with work experience only as a freelancer.
 - 🌱 Learning more about HTML, CSS, Javascript, React.js, PHP.
 
 ## My Skills
