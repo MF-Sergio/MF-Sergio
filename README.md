@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies and solutions related to web development.
 - 🎓 Studying Systems Analysis and Development (EAD) at Estácio de Sá, complemented with courses from the Alura technology school.
 - 💼 Currently unemployed and with work experience only as a freelancer.
-- 🌱 Learning more about HTML, CSS, Javascript, React.js, PHP.
+- 🌱 Learning more about HTML, CSS, Javascript, React.js, PHP, MySQL, Python and others.
 
 ## My Skills
 
@@ -16,6 +16,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 
 **Utilities**
 
@@ -39,6 +41,6 @@
 
 ## Where to Find Me
 
-[![Linkedin](https://img.shields.io/badge/-Sérgio_Mendes_Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-mf/)](https://www.linkedin.com/in/sérgio-mf/)
+[![Linkedin](https://img.shields.io/badge/-Sérgio_Mendes_Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mf-sergio/)](https://www.linkedin.com/in/mf-sergio/)
 [![Gmail Badge](https://img.shields.io/badge/-sergiohrznt@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiohrznt@gmail.com)](mailto:sergiohrznt@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/MF-Sergio?label=follow&style=social)](https://github.com/stars/MF-Sergio/lists/portfólio)
