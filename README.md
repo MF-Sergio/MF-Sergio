@@ -18,10 +18,11 @@
 ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-
-**Utilities**
-
-/////////
+![Next](https://img.shields.io/badge/Next-333333?style=flat&logo=next)
+![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
+![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vue)
+![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 
 **DevOps**
 
