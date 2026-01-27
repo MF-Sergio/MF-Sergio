@@ -3,7 +3,7 @@
 ## About Me
 
 - 🤔 Exploring new technologies and solutions related to web development.
-- 🎓 Studying Systems Analysis and Development (EAD) at Estácio de Sá, complemented with courses from the Alura technology school.
+- 🎓 Studying Systems Analysis and Development (remote learning) at Estácio de Sá, complemented with courses from the Alura technology school.
 - 💼 Currently working on two volunteer projects for NGOs.
 - 🌱 Learning more about web development, database integration, machine architecture, information security and others.
 
