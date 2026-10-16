@@ -1,4 +1,4 @@
-# Olá, eu sou o Sérgio 👋
+# Olá, me chamo Sérgio 👋
 
 ### Desenvolvedor Front-end Júnior · React · TypeScript
 
