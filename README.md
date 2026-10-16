@@ -1,48 +1,66 @@
-![](https://komarev.com/ghpvc/?username=MF-Sergio&color=006bed)
+# Olá, eu sou o Sérgio 👋
 
-## About Me
+### Desenvolvedor Front-end Júnior · React · TypeScript
 
-- 🤔 Exploring new technologies and solutions related to web development.
-- 🎓 Studying Systems Analysis and Development (remote learning) at Estácio de Sá, complemented with courses from the Alura technology school.
-- 💼 Currently working on two volunteer projects for NGOs.
-- 🌱 Learning more about web development, database integration, machine architecture, information security and others.
+Sou formado em Análise e Desenvolvimento de Sistemas (Estácio, 2026) e moro em Cachoeiras de Macacu (RJ). Estou buscando minha **primeira posição como desenvolvedor front-end**, remota ou híbrida (Campos, Nova Friburgo e região).
 
-## My Skills
+Trabalho há mais de 1 ano e meio com suporte técnico, e isso me ensinou a pensar em quem usa o que eu construo.
 
-**Applications and Data**
+> 🌎 **English:** Junior front-end developer (React + TypeScript), ADS graduate, English C1 (EF SET 63/100). Open to remote work.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+---
 
+## 🚀 Em destaque: IPPS
 
-**DevOps**
+Site institucional do **Instituto de Pesquisa e Promoção da Saúde** com fluxo de doações online. Projeto voluntário, em equipe de 3 desenvolvedores, **em produção**.
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- Criei e evoluí **9 páginas** com React, TypeScript, Vite e React Router
+- Desenvolvi a **interface de doação em 4 etapas** (valor, dados, pagamento e resultado), com Pix, boleto e cartão, integrada à API de pagamentos construída pelo time
+- Layout responsivo para celular, tablet e desktop, com componentes reutilizáveis
+- Git e GitHub em equipe: **231 commits meus**, pull requests e resolução de conflitos
 
-**Development Tools**
+🔗 [ipps.com.br](https://ipps.com.br/) · [Código no GitHub](https://github.com/MF-Sergio/IPPS)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<br/>
+## 📁 Projetos
 
-<a href="https://github.com/MF-Sergio" title="Perfil do Sérgio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MF-Sergio&theme=dracula&show_icons=true" />
-</a>
+| Projeto | O que é | Tecnologias | Links |
+|---|---|---|---|
+| **IPPS** | Site institucional e doações online (voluntário, em produção) | React, TypeScript, Vite | [Site](https://ipps.com.br/) · [Código](https://github.com/MF-Sergio/IPPS) |
+| **Instituto Capoeira Social** | Modernização do site institucional (voluntário) | HTML, CSS, JavaScript | [Site](https://institutocapoeirasocial.com.br/) |
+| **Fokus** | Timer Pomodoro com lista de tarefas (criar, editar, concluir e excluir) salva no navegador. Projeto de curso da Alura, ao qual adicionei as funcionalidades de tarefas | HTML, CSS, JavaScript | [Demo](https://fokus-smf.vercel.app/) · [Código](https://github.com/MF-Sergio/Fokus) |
+| **Culturama** | Formulário de pesquisa de opinião com HTML semântico e validação nativa, sem JavaScript. Projeto de curso da Alura | HTML, CSS | [Demo](https://culturama-taupe-one.vercel.app/) · [Código](https://github.com/MF-Sergio/Culturama) |
 
-## Where to Find Me
+---
 
-[![Linkedin](https://img.shields.io/badge/-Sérgio_Mendes_Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mf-sergio/)](https://www.linkedin.com/in/mf-sergio/)
-[![Gmail Badge](https://img.shields.io/badge/-sergiomf.pro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiomf.pro@gmail.com)](mailto:sergiomf.pro@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/MF-Sergio?label=follow&style=social)](https://github.com/stars/MF-Sergio/lists/portfólio)
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Também uso e estudo:** acessibilidade web (HTML semântico, ARIA), consumo de APIs REST, noções de Node.js e PostgreSQL.
+
+---
+
+## 🤝 Como eu trabalho
+
+- Interfaces responsivas e componentes reutilizáveis
+- Foco em acessibilidade e em formulários fáceis de usar
+- Git e GitHub em equipe, com pull requests e revisão de conflitos
+- Organização de tarefas em equipe com Trello e Miro
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sérgio_Mendes_Filho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mf-sergio/)
+[![Email](https://img.shields.io/badge/Email-sergiomf.pro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiomf.pro@gmail.com)
